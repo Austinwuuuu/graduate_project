@@ -45,9 +45,10 @@
  10.加入The Crowd的Line官方帳號。(https://liff.line.me/1645278921-kWRPP32q/?accountId=574gurjm)
  11.以手持裝置開啟藍牙定位服務與Line，接近樹梅派後就可以收到作品推播通知。
 
- 應用程式操作介面影片：https://youtube.com/shorts/bTD7eZCH_KA
 
 ### 注意事項 ###
  1.首次啟動程式會比較久，若沒有跳出錯誤訊息請耐心等候。
  2.若有錯誤訊息，請檢查軟體是否有正確安裝，以及裝置有成功連接。
- 3.若收不到Line的推播通知，請檢查是否有開啟裝置上的藍牙，以及設定中的Line藍牙服務。
+ 3.若收不到Line的推播通知，請檢查是否有開啟裝置上的藍牙，以及設定中的Line藍牙服務。.
+
+ 應用程式操作介面影片：https://youtube.com/shorts/bTD7eZCH_KA
